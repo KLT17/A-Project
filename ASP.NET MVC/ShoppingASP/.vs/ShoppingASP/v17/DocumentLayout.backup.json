@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|d:\\project_cafe_thuctap\\asp.net mvc\\shoppingasp\\shoppingasp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|solutionrelative:shoppingasp\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|d:\\project_cafe_thuctap\\asp.net mvc\\shoppingasp\\shoppingasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|solutionrelative:shoppingasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|d:\\project_cafe_thuctap\\asp.net mvc\\shoppingasp\\shoppingasp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|solutionrelative:shoppingasp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|d:\\project_cafe_thuctap\\asp.net mvc\\shoppingasp\\shoppingasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|solutionrelative:shoppingasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|d:\\project_cafe_thuctap\\asp.net mvc\\shoppingasp\\shoppingasp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|solutionrelative:shoppingasp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|d:\\project_cafe_thuctap\\asp.net mvc\\shoppingasp\\shoppingasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|solutionrelative:shoppingasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|d:\\project_cafe_thuctap\\asp.net mvc\\shoppingasp\\shoppingasp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|solutionrelative:shoppingasp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|d:\\project_cafe_thuctap\\asp.net mvc\\shoppingasp\\shoppingasp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5F3F6DD-49D5-49A8-B1D9-0BE3AEFCAE02}|ShoppingASP\\ShoppingASP.csproj|solutionrelative:shoppingasp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ShoppingASP\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ShoppingASP\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T13:00:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ShoppingASP\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ShoppingASP\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:58:42.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "ShoppingASP\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "ShoppingASP\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:57:42.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ShoppingASP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ShoppingASP\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:55:37.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShoppingASP\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShoppingASP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:54:42.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ShoppingASP\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ShoppingASP\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-01T12:53:39.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShoppingASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShoppingASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:44:29.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoppingASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Project_Cafe_ThucTap\\ASP.NET MVC\\ShoppingASP\\ShoppingASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShoppingASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T12:44:13.002Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 79,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
